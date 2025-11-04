@@ -20,3 +20,5 @@ response = client.chat.completions.create(
 
 # 5. Print the model's reply
 print(response.choices[0].message.content)
+
+#Checking VS Code Git Integrations
