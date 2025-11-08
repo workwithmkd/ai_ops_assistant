@@ -1,0 +1,51 @@
+case_id,case_type,routed_team,final_team,resolution_summary,resolution_time_hours,repeat_routing,case_title,case_description,priority,source,product_area,current_owner,status,predicted_team,correct
+C001,Security Token Error,Infra,FinOps,Sample past resolution outcome,8,1,Refund Delay,Auto-generated example describing refund delay,Low,Internal Alert,Payments,FinOps,Closed,FinOps,True
+C002,Security Token Error,Support,Infra,Sample past resolution outcome,20,0,Login Failure,Auto-generated example describing login failure,Low,Internal Alert,Billing,FinOps,Closed,FinOps,False
+C003,Login Failure,Infra,FinOps,Sample past resolution outcome,12,1,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Support,FinOps,Closed,Support,False
+C004,Deployment Rollback,Security,Support,Sample past resolution outcome,24,1,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Customer Ticket,Infra,Infra,In-Progress,Infra,False
+C005,Security Token Error,Support,FinOps,Sample past resolution outcome,13,0,Payment API Timeout,Auto-generated example describing payment api timeout,High,Customer Ticket,Security,Support,In-Progress,FinOps,True
+C006,Account Setup Issue,Support,Security,Sample past resolution outcome,8,1,Deployment Rollback,Auto-generated example describing deployment rollback,High,Internal Alert,Billing,Support,Open,FinOps,False
+C007,Security Token Error,FinOps,Infra,Sample past resolution outcome,12,1,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Internal Alert,Payments,FinOps,Closed,Infra,True
+C008,Payment API Timeout,Infra,FinOps,Sample past resolution outcome,18,1,Security Token Error,Auto-generated example describing security token error,Low,Internal Alert,Infra,Support,In-Progress,Infra,False
+C009,Deployment Rollback,Security,Security,Sample past resolution outcome,16,0,Security Token Error,Auto-generated example describing security token error,High,Internal Alert,Payments,Infra,Closed,FinOps,False
+C010,Security Token Error,FinOps,Support,Sample past resolution outcome,7,0,Refund Delay,Auto-generated example describing refund delay,Low,Slack Escalation,Payments,Infra,In-Progress,FinOps,False
+C011,Login Failure,Support,FinOps,Sample past resolution outcome,11,1,Login Failure,Auto-generated example describing login failure,Low,Slack Escalation,Billing,FinOps,Open,Support,False
+C012,Payment API Timeout,FinOps,Infra,Sample past resolution outcome,12,1,Deployment Rollback,Auto-generated example describing deployment rollback,Medium,Internal Alert,Security,FinOps,In-Progress,Infra,True
+C013,Account Setup Issue,FinOps,Security,Sample past resolution outcome,21,0,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Slack Escalation,Support,Infra,In-Progress,FinOps,False
+C014,Account Setup Issue,Infra,Support,Sample past resolution outcome,6,0,Payment API Timeout,Auto-generated example describing payment api timeout,Medium,Customer Ticket,Infra,Support,Closed,FinOps,False
+C015,Security Token Error,FinOps,Infra,Sample past resolution outcome,5,1,Refund Delay,Auto-generated example describing refund delay,High,Customer Ticket,Billing,Security,Closed,FinOps,False
+C016,Refund Delay,FinOps,Infra,Sample past resolution outcome,12,1,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Customer Ticket,Payments,Support,In-Progress,FinOps,False
+C017,Security Token Error,Infra,Infra,Sample past resolution outcome,18,0,Payment API Timeout,Auto-generated example describing payment api timeout,High,Customer Ticket,Payments,Support,Open,FinOps,False
+C018,Deployment Rollback,Infra,Security,Sample past resolution outcome,15,1,Login Failure,Auto-generated example describing login failure,High,Customer Ticket,Support,FinOps,Open,Support,False
+C019,Deployment Rollback,Support,FinOps,Sample past resolution outcome,12,0,Login Failure,Auto-generated example describing login failure,Low,Customer Ticket,Billing,Infra,Closed,Support,False
+C020,Refund Delay,Security,Infra,Sample past resolution outcome,20,0,Login Failure,Auto-generated example describing login failure,High,Slack Escalation,Security,Support,Closed,Security,False
+C021,Deployment Rollback,Security,Infra,Sample past resolution outcome,12,0,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Support,FinOps,Open,Support,False
+C022,Refund Delay,Security,FinOps,Sample past resolution outcome,9,0,Account Setup Issue,Auto-generated example describing account setup issue,Low,Internal Alert,Payments,Security,In-Progress,Support,False
+C023,Login Failure,Support,FinOps,Sample past resolution outcome,24,0,Security Token Error,Auto-generated example describing security token error,High,Internal Alert,Security,FinOps,In-Progress,Security,False
+C024,Payment API Timeout,FinOps,FinOps,Sample past resolution outcome,22,0,Security Token Error,Auto-generated example describing security token error,High,Internal Alert,Infra,Support,Closed,Infra,False
+C025,Payment API Timeout,FinOps,Security,Sample past resolution outcome,9,0,Security Token Error,Auto-generated example describing security token error,Medium,Customer Ticket,Support,Support,Closed,Security,True
+C026,Account Setup Issue,Support,Support,Sample past resolution outcome,15,0,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Customer Ticket,Billing,Support,Closed,Infra,False
+C027,Payment API Timeout,Infra,FinOps,Sample past resolution outcome,6,1,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Infra,FinOps,In-Progress,Security,False
+C028,Refund Delay,Security,Support,Sample past resolution outcome,22,1,Refund Delay,Auto-generated example describing refund delay,Medium,Customer Ticket,Payments,Security,In-Progress,FinOps,False
+C029,Payment API Timeout,FinOps,Support,Sample past resolution outcome,17,0,Login Failure,Auto-generated example describing login failure,Low,Internal Alert,Support,FinOps,Open,Support,True
+C030,Payment API Timeout,Security,FinOps,Sample past resolution outcome,3,1,Refund Delay,Auto-generated example describing refund delay,Low,Slack Escalation,Payments,Security,Closed,FinOps,True
+C031,Deployment Rollback,FinOps,FinOps,Sample past resolution outcome,16,0,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Slack Escalation,Infra,Support,In-Progress,Infra,False
+C032,Security Token Error,Security,FinOps,Sample past resolution outcome,3,1,Security Token Error,Auto-generated example describing security token error,High,Customer Ticket,Billing,Support,In-Progress,FinOps,True
+C033,Deployment Rollback,Infra,Infra,Sample past resolution outcome,22,1,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Slack Escalation,Billing,Infra,In-Progress,FinOps,False
+C034,Deployment Rollback,Infra,Support,Sample past resolution outcome,14,0,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Customer Ticket,Security,FinOps,In-Progress,Infra,False
+C035,Deployment Rollback,Support,Infra,Sample past resolution outcome,5,0,Security Token Error,Auto-generated example describing security token error,High,Customer Ticket,Infra,FinOps,Open,Infra,True
+C036,Payment API Timeout,Infra,Support,Sample past resolution outcome,21,1,Security Token Error,Auto-generated example describing security token error,High,Customer Ticket,Payments,Security,Open,FinOps,False
+C037,Deployment Rollback,Security,Infra,Sample past resolution outcome,7,0,Deployment Rollback,Auto-generated example describing deployment rollback,Medium,Customer Ticket,Support,Security,Closed,Infra,True
+C038,Refund Delay,FinOps,Infra,Sample past resolution outcome,11,1,Security Token Error,Auto-generated example describing security token error,High,Slack Escalation,Infra,Support,In-Progress,Infra,True
+C039,Deployment Rollback,Support,Support,Sample past resolution outcome,10,1,Deployment Rollback,Auto-generated example describing deployment rollback,High,Internal Alert,Payments,FinOps,Open,Infra,False
+C040,Payment API Timeout,FinOps,Security,Sample past resolution outcome,23,1,Account Setup Issue,Auto-generated example describing account setup issue,High,Internal Alert,Payments,FinOps,Open,Support,False
+C041,Account Setup Issue,FinOps,FinOps,Sample past resolution outcome,3,1,Refund Delay,Auto-generated example describing refund delay,Medium,Internal Alert,Security,FinOps,Closed,FinOps,True
+C042,Login Failure,Security,Infra,Sample past resolution outcome,18,1,Account Setup Issue,Auto-generated example describing account setup issue,High,Slack Escalation,Security,Support,In-Progress,Support,False
+C043,Security Token Error,FinOps,FinOps,Sample past resolution outcome,19,1,Deployment Rollback,Auto-generated example describing deployment rollback,High,Slack Escalation,Billing,Support,Open,FinOps,True
+C044,Account Setup Issue,FinOps,Security,Sample past resolution outcome,22,1,Account Setup Issue,Auto-generated example describing account setup issue,Medium,Customer Ticket,Infra,Infra,Closed,Support,False
+C045,Refund Delay,FinOps,FinOps,Sample past resolution outcome,8,0,Refund Delay,Auto-generated example describing refund delay,Medium,Internal Alert,Billing,Security,Closed,FinOps,True
+C046,Login Failure,Support,Security,Sample past resolution outcome,9,0,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Customer Ticket,Payments,Support,Closed,FinOps,False
+C047,Refund Delay,FinOps,Security,Sample past resolution outcome,5,0,Account Setup Issue,Auto-generated example describing account setup issue,Medium,Internal Alert,Support,Security,In-Progress,Support,False
+C048,Account Setup Issue,FinOps,FinOps,Sample past resolution outcome,12,1,Account Setup Issue,Auto-generated example describing account setup issue,Low,Internal Alert,Infra,Support,Open,Support,False
+C049,Refund Delay,Security,Infra,Sample past resolution outcome,12,0,Deployment Rollback,Auto-generated example describing deployment rollback,High,Internal Alert,Support,FinOps,Closed,Infra,True
+C050,Security Token Error,FinOps,Security,Sample past resolution outcome,21,0,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Billing,Security,Open,FinOps,False
