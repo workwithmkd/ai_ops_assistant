@@ -1,0 +1,5 @@
+team_name,primary_areas,excluded_areas,known_misconceptions
+FinOps,"Payments,Billing",Refunds,People assume FinOps owns refunds
+Infra,"Deployment,Downtime",API logic,"Infra handles downtime, not logic errors"
+Support,"Customer queries,Account setup",Code issues,Support handles only Tier 1
+Security,"Access,Encryption",UI bugs,Security doesn’t manage UI problems

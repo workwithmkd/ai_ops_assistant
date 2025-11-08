@@ -1,0 +1,51 @@
+case_id,case_type,routed_team,final_team,resolution_summary,resolution_time_hours,repeat_routing
+C001,Security Token Error,Infra,FinOps,Sample past resolution outcome,8,1
+C002,Security Token Error,Support,Infra,Sample past resolution outcome,20,0
+C003,Login Failure,Infra,FinOps,Sample past resolution outcome,12,1
+C004,Deployment Rollback,Security,Support,Sample past resolution outcome,24,1
+C005,Security Token Error,Support,FinOps,Sample past resolution outcome,13,0
+C006,Account Setup Issue,Support,Security,Sample past resolution outcome,8,1
+C007,Security Token Error,FinOps,Infra,Sample past resolution outcome,12,1
+C008,Payment API Timeout,Infra,FinOps,Sample past resolution outcome,18,1
+C009,Deployment Rollback,Security,Security,Sample past resolution outcome,16,0
+C010,Security Token Error,FinOps,Support,Sample past resolution outcome,7,0
+C011,Login Failure,Support,FinOps,Sample past resolution outcome,11,1
+C012,Payment API Timeout,FinOps,Infra,Sample past resolution outcome,12,1
+C013,Account Setup Issue,FinOps,Security,Sample past resolution outcome,21,0
+C014,Account Setup Issue,Infra,Support,Sample past resolution outcome,6,0
+C015,Security Token Error,FinOps,Infra,Sample past resolution outcome,5,1
+C016,Refund Delay,FinOps,Infra,Sample past resolution outcome,12,1
+C017,Security Token Error,Infra,Infra,Sample past resolution outcome,18,0
+C018,Deployment Rollback,Infra,Security,Sample past resolution outcome,15,1
+C019,Deployment Rollback,Support,FinOps,Sample past resolution outcome,12,0
+C020,Refund Delay,Security,Infra,Sample past resolution outcome,20,0
+C021,Deployment Rollback,Security,Infra,Sample past resolution outcome,12,0
+C022,Refund Delay,Security,FinOps,Sample past resolution outcome,9,0
+C023,Login Failure,Support,FinOps,Sample past resolution outcome,24,0
+C024,Payment API Timeout,FinOps,FinOps,Sample past resolution outcome,22,0
+C025,Payment API Timeout,FinOps,Security,Sample past resolution outcome,9,0
+C026,Account Setup Issue,Support,Support,Sample past resolution outcome,15,0
+C027,Payment API Timeout,Infra,FinOps,Sample past resolution outcome,6,1
+C028,Refund Delay,Security,Support,Sample past resolution outcome,22,1
+C029,Payment API Timeout,FinOps,Support,Sample past resolution outcome,17,0
+C030,Payment API Timeout,Security,FinOps,Sample past resolution outcome,3,1
+C031,Deployment Rollback,FinOps,FinOps,Sample past resolution outcome,16,0
+C032,Security Token Error,Security,FinOps,Sample past resolution outcome,3,1
+C033,Deployment Rollback,Infra,Infra,Sample past resolution outcome,22,1
+C034,Deployment Rollback,Infra,Support,Sample past resolution outcome,14,0
+C035,Deployment Rollback,Support,Infra,Sample past resolution outcome,5,0
+C036,Payment API Timeout,Infra,Support,Sample past resolution outcome,21,1
+C037,Deployment Rollback,Security,Infra,Sample past resolution outcome,7,0
+C038,Refund Delay,FinOps,Infra,Sample past resolution outcome,11,1
+C039,Deployment Rollback,Support,Support,Sample past resolution outcome,10,1
+C040,Payment API Timeout,FinOps,Security,Sample past resolution outcome,23,1
+C041,Account Setup Issue,FinOps,FinOps,Sample past resolution outcome,3,1
+C042,Login Failure,Security,Infra,Sample past resolution outcome,18,1
+C043,Security Token Error,FinOps,FinOps,Sample past resolution outcome,19,1
+C044,Account Setup Issue,FinOps,Security,Sample past resolution outcome,22,1
+C045,Refund Delay,FinOps,FinOps,Sample past resolution outcome,8,0
+C046,Login Failure,Support,Security,Sample past resolution outcome,9,0
+C047,Refund Delay,FinOps,Security,Sample past resolution outcome,5,0
+C048,Account Setup Issue,FinOps,FinOps,Sample past resolution outcome,12,1
+C049,Refund Delay,Security,Infra,Sample past resolution outcome,12,0
+C050,Security Token Error,FinOps,Security,Sample past resolution outcome,21,0

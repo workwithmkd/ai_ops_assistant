@@ -1,0 +1,51 @@
+case_id,case_title,case_description,priority,source,product_area,current_owner,status
+C001,Refund Delay,Auto-generated example describing refund delay,Low,Internal Alert,Payments,FinOps,Closed
+C002,Login Failure,Auto-generated example describing login failure,Low,Internal Alert,Billing,FinOps,Closed
+C003,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Support,FinOps,Closed
+C004,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Customer Ticket,Infra,Infra,In-Progress
+C005,Payment API Timeout,Auto-generated example describing payment api timeout,High,Customer Ticket,Security,Support,In-Progress
+C006,Deployment Rollback,Auto-generated example describing deployment rollback,High,Internal Alert,Billing,Support,Open
+C007,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Internal Alert,Payments,FinOps,Closed
+C008,Security Token Error,Auto-generated example describing security token error,Low,Internal Alert,Infra,Support,In-Progress
+C009,Security Token Error,Auto-generated example describing security token error,High,Internal Alert,Payments,Infra,Closed
+C010,Refund Delay,Auto-generated example describing refund delay,Low,Slack Escalation,Payments,Infra,In-Progress
+C011,Login Failure,Auto-generated example describing login failure,Low,Slack Escalation,Billing,FinOps,Open
+C012,Deployment Rollback,Auto-generated example describing deployment rollback,Medium,Internal Alert,Security,FinOps,In-Progress
+C013,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Slack Escalation,Support,Infra,In-Progress
+C014,Payment API Timeout,Auto-generated example describing payment api timeout,Medium,Customer Ticket,Infra,Support,Closed
+C015,Refund Delay,Auto-generated example describing refund delay,High,Customer Ticket,Billing,Security,Closed
+C016,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Customer Ticket,Payments,Support,In-Progress
+C017,Payment API Timeout,Auto-generated example describing payment api timeout,High,Customer Ticket,Payments,Support,Open
+C018,Login Failure,Auto-generated example describing login failure,High,Customer Ticket,Support,FinOps,Open
+C019,Login Failure,Auto-generated example describing login failure,Low,Customer Ticket,Billing,Infra,Closed
+C020,Login Failure,Auto-generated example describing login failure,High,Slack Escalation,Security,Support,Closed
+C021,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Support,FinOps,Open
+C022,Account Setup Issue,Auto-generated example describing account setup issue,Low,Internal Alert,Payments,Security,In-Progress
+C023,Security Token Error,Auto-generated example describing security token error,High,Internal Alert,Security,FinOps,In-Progress
+C024,Security Token Error,Auto-generated example describing security token error,High,Internal Alert,Infra,Support,Closed
+C025,Security Token Error,Auto-generated example describing security token error,Medium,Customer Ticket,Support,Support,Closed
+C026,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Customer Ticket,Billing,Support,Closed
+C027,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Infra,FinOps,In-Progress
+C028,Refund Delay,Auto-generated example describing refund delay,Medium,Customer Ticket,Payments,Security,In-Progress
+C029,Login Failure,Auto-generated example describing login failure,Low,Internal Alert,Support,FinOps,Open
+C030,Refund Delay,Auto-generated example describing refund delay,Low,Slack Escalation,Payments,Security,Closed
+C031,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Slack Escalation,Infra,Support,In-Progress
+C032,Security Token Error,Auto-generated example describing security token error,High,Customer Ticket,Billing,Support,In-Progress
+C033,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Slack Escalation,Billing,Infra,In-Progress
+C034,Deployment Rollback,Auto-generated example describing deployment rollback,Low,Customer Ticket,Security,FinOps,In-Progress
+C035,Security Token Error,Auto-generated example describing security token error,High,Customer Ticket,Infra,FinOps,Open
+C036,Security Token Error,Auto-generated example describing security token error,High,Customer Ticket,Payments,Security,Open
+C037,Deployment Rollback,Auto-generated example describing deployment rollback,Medium,Customer Ticket,Support,Security,Closed
+C038,Security Token Error,Auto-generated example describing security token error,High,Slack Escalation,Infra,Support,In-Progress
+C039,Deployment Rollback,Auto-generated example describing deployment rollback,High,Internal Alert,Payments,FinOps,Open
+C040,Account Setup Issue,Auto-generated example describing account setup issue,High,Internal Alert,Payments,FinOps,Open
+C041,Refund Delay,Auto-generated example describing refund delay,Medium,Internal Alert,Security,FinOps,Closed
+C042,Account Setup Issue,Auto-generated example describing account setup issue,High,Slack Escalation,Security,Support,In-Progress
+C043,Deployment Rollback,Auto-generated example describing deployment rollback,High,Slack Escalation,Billing,Support,Open
+C044,Account Setup Issue,Auto-generated example describing account setup issue,Medium,Customer Ticket,Infra,Infra,Closed
+C045,Refund Delay,Auto-generated example describing refund delay,Medium,Internal Alert,Billing,Security,Closed
+C046,Payment API Timeout,Auto-generated example describing payment api timeout,Low,Customer Ticket,Payments,Support,Closed
+C047,Account Setup Issue,Auto-generated example describing account setup issue,Medium,Internal Alert,Support,Security,In-Progress
+C048,Account Setup Issue,Auto-generated example describing account setup issue,Low,Internal Alert,Infra,Support,Open
+C049,Deployment Rollback,Auto-generated example describing deployment rollback,High,Internal Alert,Support,FinOps,Closed
+C050,Login Failure,Auto-generated example describing login failure,Medium,Slack Escalation,Billing,Security,Open
